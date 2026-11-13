@@ -1,0 +1,53 @@
+{
+  "mods": {
+    "bossbuilding": {
+      "name": "BossBuilding",
+      "version": "2.0.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "BossBuildingV2_0.honmod",
+      "sha256": "58337f0bed5a59a31407a8641aedaa08b46b2adfdbc6e4ce5219da5f05ec0200",
+      "size": 2536333
+    },
+    "daynight-clock-tooltip": {
+      "name": "DayNight Clock Tooltip",
+      "version": "1.1.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "DayNightClockTooltip_v1.1_Fix.honmod",
+      "sha256": "dcbc4f242f8a2a3b05b19ae7dc9947a8c6e1f533121a22ba7574c9ad8696cb80",
+      "size": 2515630
+    },
+    "healthbarplus": {
+      "name": "HealthBarPlus",
+      "version": "2.0.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "HealthBarPlusV2_0.honmod",
+      "sha256": "16c6fd4a19f04b47201ca8c7a4b2d2eadf4882bd9dd866edae483ba02dcee92d",
+      "size": 2658946
+    },
+    "mod-options-hub": {
+      "name": "Mod Options Hub",
+      "version": "1.1.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "ModOptionsHub_v1_1.honmod",
+      "sha256": "d3025a6aaab6988a68303dba00ff46ffafff8e9c7a32b55cdff2a1343cbc960e",
+      "size": 2117600
+    },
+    "neutral-pet-healthbarplus": {
+      "name": "Neutral Pet HealthBarPlus",
+      "version": "1.0.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "Neutral_Pet_HealthBarPlus.honmod",
+      "sha256": "ea31335faebb4dd50c9efec1c31ef0f6a686ba3041e726ffdc85364d38e3a6c5",
+      "size": 2192749
+    },
+    "quick-account-login": {
+      "name": "Quick Account Login",
+      "version": "1.0.1",
+      "releaseTag": "forge-updates-1",
+      "asset": "QuickAccountLogin_v1.honmod",
+      "sha256": "651ae91da7ac1c1b42dbafeefb5866d57ad0852e50f8559d878dc99c694c6830",
+      "size": 2026389
+    }
+  },
+  "schemaVersion": 1
+}
